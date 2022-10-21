@@ -1,0 +1,16 @@
+{
+"name": "wdg239",
+"theme": "wdg239",
+"version": "3.1.2",
+"description": "wdg239 ทางเข้าหลักเว็บพนันเว็บตรง สมาชิกเยอะ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"wdg239",
+"wdg239 เครดิตฟรี",
+"wdg239 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/wdg239",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
